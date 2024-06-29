@@ -20,3 +20,5 @@ choco install googlechrome -y
 choco install notepadplusplus -y
 choco install sublimetext3 -y
 choco install arsenalimagemounter -y
+choco install microsoftazurestorageexplorer -y
+choco install chainsaw -y
